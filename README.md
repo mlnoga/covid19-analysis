@@ -8,7 +8,7 @@ A descriptive and predictive analysis of the ongoing Covid-19 pandemic.
 
 ## Data Sources
 
-* Johns Hopkins Covid-19 [dataset](https://github.com/CSSEGISandData/COVID-19) on GitHub
+* Johns Hopkins [Covid-19 dataset](https://github.com/CSSEGISandData/COVID-19)
 
 ## Technical prerequisites
 
