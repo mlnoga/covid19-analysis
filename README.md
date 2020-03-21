@@ -4,12 +4,12 @@ A descriptive and predictive analysis of the ongoing Covid-19 pandemic.
 
 ## Latest
 
-[tbd]()
+* [March 21st](https://raw.githubusercontent.com/mlnoga/covid19-analysis/master/html/20200321-covid-model.html)
 
 ## Data Sources
 
-Johns Hopkins Covid-19 [dataset](https://github.com/CSSEGISandData/COVID-19) on GitHub
+* Johns Hopkins Covid-19 [dataset](https://github.com/CSSEGISandData/COVID-19) on GitHub
 
 ## Technical prerequisites
 
-[JupyterLab](https://jupyter.org/)
+* [JupyterLab](https://jupyter.org/)
