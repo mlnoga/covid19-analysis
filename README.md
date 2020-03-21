@@ -4,7 +4,7 @@ A descriptive and predictive analysis of the ongoing Covid-19 pandemic.
 
 ## Latest
 
-* [March 21st](https://raw.githubusercontent.com/mlnoga/covid19-analysis/master/html/20200321-covid-model.html)
+* [March 21st](html/20200321-covid-model.html)
 
 ## Data Sources
 
