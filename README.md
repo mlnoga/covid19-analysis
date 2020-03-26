@@ -2,6 +2,7 @@ Stay safe, look after your loved ones, and stay healthy.
 
 ## Latest
 
+* [March 26th](html/20200326-covid-model.html)
 * [March 25th](html/20200325-covid-model.html)
 * [March 24th](html/20200324-covid-model.html)
 * [March 23rd](html/20200323-covid-model.html)
