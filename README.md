@@ -16,7 +16,7 @@ Markus
 * [Demographic projection](html/CFR-demographic-projection.html)
 
 
-## Latest daily update
+## Previous daily updates
 
 * [March 26th](html/20200326-covid-model.html)
 * [March 25th](html/20200325-covid-model.html)
@@ -27,9 +27,10 @@ Markus
 * [March 20th](html/20200320-covid-model.html)
 
 
-## Data Sources
+## Data sources
 
 * Johns Hopkins [Covid-19 dataset](https://github.com/CSSEGISandData/COVID-19)
+* UN population [projections](https://population.un.org/wpp/Download/Standard/Population/)
 
 
 ## Technical prerequisites
