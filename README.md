@@ -1,4 +1,9 @@
-## Current: [March 26th](html/20200326-covid-model.html)
+## Current: [March 27th](html/20200327-covid-model.html)
+
+In today's update, I take a look at how accurate predictions one week ago were. In a nutshell: the algorithms got the rank order of most impacted countries mostly right. But predictions of case counts where somewhat too conservative.
+
+
+## Context
 
 The novel coronavirus is bringing societies worldwide to a halt and causing widespread health impacts and fatal outcomes. Still, there appears to be a paucity of information how the crisis is likely to unfold in the near future. Most news outlets only show aggreate numbers, color-coded world maps, or descriptive statistics of the current situation. 
 
@@ -18,6 +23,7 @@ Markus
 
 ## Previous daily updates
 
+* [March 27th](html/20200327-covid-model.html)
 * [March 26th](html/20200326-covid-model.html)
 * [March 25th](html/20200325-covid-model.html)
 * [March 24th](html/20200324-covid-model.html)
