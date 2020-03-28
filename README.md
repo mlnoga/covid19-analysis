@@ -1,6 +1,6 @@
-## Current: [March 27th](html/20200327-covid-model.html)
+## Current: [March 28th](html/20200328-covid-model.html)
 
-In today's update, I take a look at how accurate predictions one week ago were. In a nutshell: the algorithms got the rank order of most impacted countries mostly right. But predictions of case counts where somewhat too conservative.
+In today's update, error bounds for most countries have narrowed. The one week corridor for fatal outcomes in the US, Italy and Spain looks grim.
 
 
 ## Context
@@ -23,7 +23,8 @@ Markus
 
 ## Previous daily updates
 
-* [March 27th](html/20200327-covid-model.html)
+* [March 28th](html/20200328-covid-model.html)
+* [March 27th](html/20200327-covid-model.html) including hindcasting
 * [March 26th](html/20200326-covid-model.html)
 * [March 25th](html/20200325-covid-model.html)
 * [March 24th](html/20200324-covid-model.html)
