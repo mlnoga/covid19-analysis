@@ -13,7 +13,9 @@ All projections are based on curve fitting on a per-country level. Thus, they ex
 
 Stay safe, look after your loved ones, and stay healthy.
 
-Markus
+Markus Noga
+
+For questions and comments, please reach out to me on [LinkedIn](https://www.linkedin.com/in/mlnoga/) or [Twitter](https://twitter.com/mlnoga)
 
 
 ## Demographic projection of outcomes
