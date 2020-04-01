@@ -1,6 +1,6 @@
-## Current: [March 31st](html/20200331-covid-model.html)
+## Current: [April 1st](html/20200401-covid-model.html)
 
-In today's update, error bounds for most countries have narrowed. The one week corridor for fatal outcomes continues to look grim, particularly for Italy, Spain and the US.
+In today's update, the one week corridor for fatal outcomes continues to look grim, particularly for Italy, Spain and the US.
 
 
 ## Context
@@ -25,6 +25,7 @@ For questions and comments, please reach out to me on [LinkedIn](https://www.lin
 
 ## Previous daily updates
 
+* [April 1st](html/20200401-covid-model.html)
 * [March 31st](html/20200331-covid-model.html)
 * [March 30th](html/20200330-covid-model.html)
 * [March 29th](html/20200329-covid-model.html)
