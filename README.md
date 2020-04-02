@@ -1,6 +1,6 @@
-## Current: [April 1st](html/20200401-covid-model.html)
+## Current: [April 2nd](html/20200402-covid-model.html)
 
-In today's update, the one week corridor for fatal outcomes continues to look grim, particularly for Italy, Spain and the US.
+In today's somewhat delayed update, there are major upgrades to the prediction approach (now based on daily increments and symbolic integration), as well as to the approach to calculating erorr bands (now showing both 95% confidence bands for the true value, and 95% projection bands for future measured data points including noise). Projections continue to look grim for the US and Spain. Italy seems to be past the peak of daily new cases. 
 
 
 ## Context
@@ -25,6 +25,7 @@ For questions and comments, please reach out to me on [LinkedIn](https://www.lin
 
 ## Previous daily updates
 
+* [April 2nd](html/20200402-covid-model.html)
 * [April 1st](html/20200401-covid-model.html)
 * [March 31st](html/20200331-covid-model.html)
 * [March 30th](html/20200330-covid-model.html)
