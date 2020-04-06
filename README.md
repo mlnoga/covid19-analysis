@@ -1,6 +1,6 @@
-## Current: [April 5th](html/20200405-covid-model.html)
+## Current: [April 6th](html/20200406-covid-model.html)
 
-Projections continue to look grim for the US and France. Spain and Germany seem to be cresting the wave of new cases. Italy seems past the peak of new cases.
+Projections continue to look grim for the US and France. Germany seem to be cresting the wave of new cases. Italy and Spain seem past the peak of new cases.
 
 
 ## Context
@@ -25,6 +25,7 @@ For questions and comments, please reach out to me on [LinkedIn](https://www.lin
 
 ## Previous daily updates
 
+* [April 6th](html/20200406-covid-model.html)
 * [April 5th](html/20200405-covid-model.html)
 * [April 4th](html/20200404-covid-model.html)
 * [April 3nd](html/20200403-covid-model.html)
