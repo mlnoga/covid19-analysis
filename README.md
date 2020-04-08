@@ -1,6 +1,8 @@
-## Current: [April 3nd](html/20200403-covid-model.html)
+## Current: [April 8th](html/20200408-covid-model.html)
 
-In yesterdays update, there were major upgrades to the prediction approach (now based on daily increments and symbolic integration), as well as to the approach to calculating error bands (now showing both 95% confidence bands for the true value, and 95% projection bands for future measured data points including noise). Projections continue to look grim for the US and Spain, which has overtaken Italy in terms of new cases. Italy seems to be past the peak of daily new cases. 
+Like most of the heavily impacted countries, the US seems just behind the crest of new cases. Germany has passed it, and Italy and Spain are further down the trailing curve. However, France, Canada, Russia, Brazil still continue with exponential growth of new cases. France now registers more new cases than Germany.
+
+Please note that passing the crest of new cases does not indicate peak strain on healthcare systems just yet; or that social distancing can be relaxed. Without other measures, renewed physical closeness would make curves raise exponentially again. 
 
 
 ## Context
@@ -25,6 +27,11 @@ For questions and comments, please reach out to me on [LinkedIn](https://www.lin
 
 ## Previous daily updates
 
+* [April 8th](html/20200408-covid-model.html)
+* [April 7th](html/20200407-covid-model.html)
+* [April 6th](html/20200406-covid-model.html)
+* [April 5th](html/20200405-covid-model.html)
+* [April 4th](html/20200404-covid-model.html)
 * [April 3nd](html/20200403-covid-model.html)
 * [April 2nd](html/20200402-covid-model.html)
 * [April 1st](html/20200401-covid-model.html)
