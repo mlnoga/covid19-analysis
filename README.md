@@ -1,4 +1,4 @@
-## Current: [April 7th](html/20200408-covid-model.html)
+## Current: [April 8th](html/20200408-covid-model.html)
 
 Like most of the heavily impacted countries, the US seems just behind the crest of new cases. Germany has passed it, and Italy and Spain are further down the trailing curve. However, France, Canada, Russia, Brazil still continue with exponential growth of new cases. France now registers more new cases than Germany.
 
