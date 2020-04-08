@@ -1,6 +1,8 @@
-## Current: [April 7th](html/20200407-covid-model.html)
+## Current: [April 7th](html/20200408-covid-model.html)
 
-The US may be at the crest of new cases. Germany seems to have passed it, following Italy and Spain. Please note this does not indicate peak strain on healthcare systems just yet; or that social distancing can be relaxed. Without other measures, renewed physical closeness, curves would begin raising exponentially again. 
+Like most of the heavily impacted countries, the US seems just behind the crest of new cases. Germany has passed it, and Italy and Spain are further down the trailing curve. However, France, Canada, Russia, Brazil still continue with exponential growth of new cases. France now registers more new cases than Germany.
+
+Please note that passing the crest of new cases does not indicate peak strain on healthcare systems just yet; or that social distancing can be relaxed. Without other measures, renewed physical closeness would make curves raise exponentially again. 
 
 
 ## Context
@@ -25,6 +27,7 @@ For questions and comments, please reach out to me on [LinkedIn](https://www.lin
 
 ## Previous daily updates
 
+* [April 8th](html/20200408-covid-model.html)
 * [April 7th](html/20200407-covid-model.html)
 * [April 6th](html/20200406-covid-model.html)
 * [April 5th](html/20200405-covid-model.html)
