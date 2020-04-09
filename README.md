@@ -1,6 +1,6 @@
-## Current: [April 8th](html/20200408-covid-model.html)
+## Current: [April 9th](html/20200409-covid-model.html)
 
-Like most of the heavily impacted countries, the US seems just behind the crest of new cases. Germany has passed it, and Italy and Spain are further down the trailing curve. However, France, Canada, Russia, Brazil still continue with exponential growth of new cases. France now registers more new cases than Germany.
+The overall pattern of slowed expansion continues, with global new case counts growing at 6% (down 0.1ppt). Some countries which appear to have passed the crest of new cases are reporting new case counts right at the upper limit of the projection corridor. It remains to be seen whether this is measurement noise, or a signal that the slowdown is not happening quite as rapidly.
 
 Please note that passing the crest of new cases does not indicate peak strain on healthcare systems just yet; or that social distancing can be relaxed. Without other measures, renewed physical closeness would make curves raise exponentially again. 
 
@@ -27,6 +27,7 @@ For questions and comments, please reach out to me on [LinkedIn](https://www.lin
 
 ## Previous daily updates
 
+* [April 9th](html/20200409-covid-model.html)
 * [April 8th](html/20200408-covid-model.html)
 * [April 7th](html/20200407-covid-model.html)
 * [April 6th](html/20200406-covid-model.html)
