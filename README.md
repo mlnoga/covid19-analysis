@@ -1,6 +1,8 @@
-## Current: [April 10th](html/20200410-covid-model.html)
+## Current: [April 11th](html/20200411-covid-model.html)
 
-More and more major countries look like they've passed the peak of new cases. Please note that passing the crest of new cases does not indicate peak strain on healthcare systems just yet; or that social distancing can be relaxed. Without other measures, renewed physical closeness would make curves raise exponentially again. 
+More and more second wave countries look like they've passed the peak of new cases. Please note that passing the crest of new cases does not indicate peak strain on healthcare systems just yet; or that social distancing can be relaxed. Without other measures, renewed physical closeness would make curves raise exponentially again. 
+
+A first attempt at a global bottom-up prediction indicates a third wave of countries is going to continue to fuel growth in new cases, even as social distancing flattens the curve in wave 2 countries.
 
 
 ## Context
@@ -25,6 +27,7 @@ For questions and comments, please reach out to me on [LinkedIn](https://www.lin
 
 ## Previous daily updates
 
+* [April 11th](html/20200411-covid-model.html)
 * [April 10th](html/20200410-covid-model.html)
 * [April 9th](html/20200409-covid-model.html)
 * [April 8th](html/20200408-covid-model.html)
