@@ -1,4 +1,4 @@
-## Current: [April 17th](html/20200418-covid-model.html)
+## Current: [April 18th](html/20200418-covid-model.html)
 
 Global new cases have passed their second peak this week thanks to successful social distancing. However, several countries are entering high plateaus after this peak, e.g. the US and the Netherlands. Also, more and more additional countries are hitting high growth rates, building up for a third wave of new cases a week from now.
 
