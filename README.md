@@ -1,10 +1,10 @@
-## Current: [April 18th World](html/20200418-covid-model.html) and [US by state](html/20200418-covid-model-US.html)
+## Current: [April 19th World](html/20200419-covid-model.html) and [US by state](html/20200419-covid-model-US.html)
 
 Global new cases have passed their second peak this week thanks to successful social distancing. However, several countries are entering high plateaus after this peak, e.g. the US and the Netherlands. Also, more and more additional countries are hitting high growth rates, building up for a third wave of new cases a week from now.
 
 Please note that passing the crest of new cases does not indicate peak strain on healthcare systems just yet; or that social distancing can be relaxed. Without other measures, renewed physical closeness would make curves raise exponentially again. 
 
-State-by-state projections for the US are new as of today.
+State-by-state projections for the US are new as of this weekend. Please note that bottom-up predictions of the US total, based on individual states, can and do differ from top-down predictions based on a countrywide total. The bottom up predictions should be more precise. 
 
 ## Context
 
@@ -28,6 +28,7 @@ For questions and comments, please reach out to me on [LinkedIn](https://www.lin
 
 ## Previous daily updates
 
+* [April 19th World](html/20200419-covid-model.html) and  [US by state](html/20200419-covid-model-US.html)
 * [April 18th World](html/20200418-covid-model.html) and  [US by state](html/20200418-covid-model-US.html)
 * [April 17th](html/20200417-covid-model.html)
 * [April 16th](html/20200416-covid-model.html)
