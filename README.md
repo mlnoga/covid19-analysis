@@ -1,6 +1,6 @@
 ## Current: [April 28th World](html/20200428-covid-model.html) and [US by state](html/20200428-covid-model-US.html)
 
-Global new cases have passed their second peak this week thanks to successful social distancing. However, several countries are entering high plateaus after this peak, e.g. the US and the Netherlands. Also, more and more additional countries are hitting high growth rates, building up for a third wave of new cases a week from now.
+Global new cases have passed their second peak thanks to successful social distancing. However, several countries are entering high plateaus after this peak, most prominently the US. Also, more and more additional countries are hitting high growth rates, building up for a third wave of new cases.
 
 Please note that passing the crest of new cases does not indicate peak strain on healthcare systems just yet; or that social distancing can be relaxed. Without other measures, renewed physical closeness would make curves raise exponentially again. 
 
