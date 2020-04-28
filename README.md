@@ -1,4 +1,4 @@
-## Current: [April 27th World](html/20200427-covid-model.html) and [US by state](html/20200427-covid-model-US.html)
+## Current: [April 28th World](html/20200428-covid-model.html) and [US by state](html/20200428-covid-model-US.html)
 
 Global new cases have passed their second peak this week thanks to successful social distancing. However, several countries are entering high plateaus after this peak, e.g. the US and the Netherlands. Also, more and more additional countries are hitting high growth rates, building up for a third wave of new cases a week from now.
 
@@ -28,6 +28,7 @@ For questions and comments, please reach out to me on [LinkedIn](https://www.lin
 
 ## Previous daily updates
 
+* [April 28th World](html/20200428-covid-model.html) and  [US by state](html/20200428-covid-model-US.html)
 * [April 27th World](html/20200427-covid-model.html) and  [US by state](html/20200427-covid-model-US.html)
 * [April 26th World](html/20200426-covid-model.html) and  [US by state](html/20200426-covid-model-US.html)
 * [April 25th World](html/20200425-covid-model.html) and  [US by state](html/20200425-covid-model-US.html)
