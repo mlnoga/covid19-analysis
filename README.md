@@ -1,4 +1,4 @@
-## Current: [May 5th World](html/2020055-covid-model.html) and [US by state](html/20200505-covid-model-US.html)
+## Current: [May 5th World](html/20200505-covid-model.html) and [US by state](html/20200505-covid-model-US.html)
 
 Global new cases have passed their second peak thanks to successful social distancing. However, several countries are entering high plateaus after this peak, most prominently the US. Also, more and more additional countries are hitting high growth rates, building up for a third wave of new cases.
 
