@@ -1,10 +1,10 @@
-## Current: [May 11th World](html/20200511-covid-model.html) and [US by state](html/20200511-covid-model-US.html)
+## Current: [May 12th World](html/20200512-covid-model.html) and [US by state](html/20200512-covid-model-US.html)
 
-Global new cases have passed their second peak thanks to successful social distancing. However, several countries are entering high plateaus after this peak, most prominently the US. Also, more and more additional countries are hitting high growth rates, building up for a third wave of new cases.
+Global new cases have passed their second peak thanks to successful social distancing. However, several countries are entering high plateaus after this peak, most prominently the US. Also, more and more additional countries are hitting high growth rates. This results in a third wave of new cases.
 
 Please note that passing the crest of new cases does not indicate peak strain on healthcare systems just yet; or that social distancing can be relaxed. Without other measures, renewed physical closeness would make curves raise exponentially again. 
 
-State-by-state projections for the US are new as of this weekend. Please note that bottom-up predictions of the US total, based on individual states, can and do differ from top-down predictions based on a countrywide total. The bottom up predictions should be more precise. 
+Please note that bottom-up state-by-state predictions of the US total, based on individual states, can and do differ from top-down predictions based on a countrywide total. The bottom up predictions should be more precise. 
 
 ## Context
 
@@ -28,6 +28,7 @@ For questions and comments, please reach out to me on [LinkedIn](https://www.lin
 
 ## Previous daily updates
 
+* [May   12th World](html/20200512-covid-model.html) and  [US by state](html/20200512-covid-model-US.html)
 * [May   11th World](html/20200511-covid-model.html) and  [US by state](html/20200511-covid-model-US.html)
 * [May   10th World](html/20200510-covid-model.html) and  [US by state](html/20200510-covid-model-US.html)
 * [May    9th World](html/20200509-covid-model.html) and  [US by state](html/20200509-covid-model-US.html)
