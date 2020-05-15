@@ -1,6 +1,6 @@
-## Current: [May 14th World](html/20200514-covid-model.html) and [US by state](html/20200514-covid-model-US.html)
+## Current: [May 15th World](html/20200515-covid-model.html) and [US by state](html/20200515-covid-model-US.html)
 
-Global new cases have passed their second peak thanks to successful social distancing. However, several countries are entering high plateaus after this peak, most prominently the US. Also, more and more additional countries are hitting high growth rates. This results in a third wave of new cases.
+While many developed countries have passed the peak of new cases, global new cases are in their third wave of growth. This is fueled by high plateaus in large wave II countries like the US, and strong case growth in wave III countries like Russia. 
 
 Please note that passing the crest of new cases does not indicate peak strain on healthcare systems just yet; or that social distancing can be relaxed. Without other measures, renewed physical closeness would make curves raise exponentially again. 
 
@@ -28,6 +28,7 @@ For questions and comments, please reach out to me on [LinkedIn](https://www.lin
 
 ## Previous daily updates
 
+* [May   15th World](html/20200515-covid-model.html) and  [US by state](html/20200515-covid-model-US.html)
 * [May   14th World](html/20200514-covid-model.html) and  [US by state](html/20200514-covid-model-US.html)
 * [May   13th World](html/20200513-covid-model.html) and  [US by state](html/20200513-covid-model-US.html)
 * [May   12th World](html/20200512-covid-model.html) and  [US by state](html/20200512-covid-model-US.html)
