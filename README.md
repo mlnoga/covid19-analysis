@@ -1,4 +1,4 @@
-## Current: June 2 [world](html/20200602-covid-model.html) and [US by state](html/20200602-covid-model-US.html)
+## Current: June 3 [world](html/20200603-covid-model.html) and [US by state](html/20200603-covid-model-US.html)
 
 While many developed countries have passed the peak of new cases, global new cases are in their third wave of growth. This is fueled by high plateaus in large wave II countries like the US, and strong case growth in wave III countries like Russia. 
 
@@ -28,6 +28,7 @@ For questions and comments, please reach out to me on [LinkedIn](https://www.lin
 
 ## Previous daily updates
 
+* June 3 [world](html/20200603-covid-model.html) and [US by state](html/20200603-covid-model-US.html)
 * June 2 [world](html/20200602-covid-model.html) and [US by state](html/20200602-covid-model-US.html)
 * June 1 [world](html/20200601-covid-model.html) and [US by state](html/20200601-covid-model-US.html)
 * May 31 [world](html/20200531-covid-model.html) and [US by state](html/20200531-covid-model-US.html)
